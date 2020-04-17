@@ -284,7 +284,7 @@ unicodecsv==0.14.1
 unittest2==1.1.0
 urllib3==1.24.1
 virtualenv==15.1.0
-waitress==1.2.0b2
+waitress==1.4.3
 Wand==0.5.8
 wasabi==0.4.2
 watchdog==0.9.0
