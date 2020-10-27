@@ -33,7 +33,7 @@ cloudpickle==1.2.2
 colorama==0.4.1
 confuse==1.0.0
 coverage==4.5.2
-cryptography==2.6.1
+cryptography==3.2
 cupshelpers==1.0
 cvxpy==1.0.25
 cycler==0.10.0
