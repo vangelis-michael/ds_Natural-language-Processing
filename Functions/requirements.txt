@@ -257,7 +257,7 @@ tables==3.4.4
 tabula-py==2.0.3
 tb-nightly==1.14.0a20190301
 tensorboard==2.1.0
-tensorflow==2.1.0
+tensorflow==2.5.0
 tensorflow-estimator==2.1.0
 tensorwatch==0.9.1
 termcolor==1.1.0
