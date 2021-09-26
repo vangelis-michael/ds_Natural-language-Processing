@@ -1,13 +1,13 @@
-absl-py==0.8.1
-alabaster==0.7.8
-argh==0.26.2
-asgiref==3.2.3
-asn1crypto==0.24.0
-astor==0.8.0
-astroid==2.1.0
-astropy==3.2.3
-atomicwrites==1.1.5
-attrs==18.2.0
+# absl-py==0.8.1
+#alabaster==0.7.8
+#argh==0.26.2
+#asgiref==3.2.3
+#asn1crypto==0.24.0
+#astor==0.8.0
+#astroid==2.1.0
+#astropy==3.2.3
+#atomicwrites==1.1.5
+#attrs==18.2.0
 audioread==2.1.8
 autopep8==1.5
 Babel==2.6.0
